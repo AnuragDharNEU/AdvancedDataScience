@@ -10,7 +10,13 @@ Claat document: https://codelabs-preview.appspot.com/?file_id=1NR6l3ZGy0wKECCm0d
 
 
 ### ASSIGNMENT 2:
-The goal in this assognment is to cluster the keywords and analyze the key area in which all the 24 Banks in US are hiring. 
+The goal in this assignment is to cluster the keywords and analyze the key area in which all the 24 Banks in US are hiring. 
 If a job-seeker wants to know the technology that banks are looking for and in which area in US should they look for job is analyzed with the dataset that is prepared.
 
 Claat document: https://codelabs-preview.appspot.com/?file_id=1jV9f9iUal9JTx-CveZvDc-wbgjKyLe8HF_s0nqZbF2g#0
+
+
+### ASSIGNMENT 4:
+The goal in this assignment is to create a prototype of an app which would dynamically generate the mood of top-k list in the US song as happy/sad.
+
+Claat document: https://codelabs-preview.appspot.com/?file_id=1mmqN8t1Q9ZbYELVA_Tud2Eo3u9vxU_OXMjDYfbq-RJ0#0
