@@ -17,7 +17,7 @@ Extract keywords from 4 documents from World Economic Forum to build a dictionar
 2.We will now analyze this data and draw insights on hiring patterns and trends by comparing the words extracted using above methods with description of the jobs<br>
 3. Tools for visulization: Data Wrapper <br>
 
-<b> Google claat :<b> https://codelabs-preview.appspot.com/?file_id=1NR6l3ZGy0wKECCm0dmWSiicX5lNx9qqtxfjH_RIPRCc#0
+<b> Google claat :</b> https://codelabs-preview.appspot.com/?file_id=1NR6l3ZGy0wKECCm0dmWSiicX5lNx9qqtxfjH_RIPRCc#0
 
 
 <b>PART 2:</b>
