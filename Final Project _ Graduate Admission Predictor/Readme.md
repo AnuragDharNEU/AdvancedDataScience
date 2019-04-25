@@ -16,12 +16,20 @@ The goal of the model is to cover two aspects of Graduate Admission:<br>
 
 <b> DataSet Used</b><br>
  - Assisting Student Model : Dataset for 29 colleges across USA ranging from Rank 1 to Rank 130 in computer science department<br>
- - Assidting University Model: Dataset for Northeastern University, Boston<br>
+ - Assidting University Model: Dataset for Northeastern University, Boston<br><br>
 
-<b>Using our Application</b><br>
+<b>Using our Application</b><br><br>
+
+#### Assisting Student Model :<br>
 <b>URL for the application:</b> https://grad-school-predictor.herokuapp.com/ <br>
-Steps to reproduce:
+Steps to reproduce:<br>
 ![image](https://user-images.githubusercontent.com/37238004/56715198-ff2a4080-6704-11e9-9e65-6cef85daefbb.png)
+
+##### Assisting University Model :<br>
+Steps to reproduce:<br>
+![image](https://user-images.githubusercontent.com/37238004/56715720-77ddcc80-6706-11e9-9390-61fc2b97a152.png)
+
+
 
 
 
