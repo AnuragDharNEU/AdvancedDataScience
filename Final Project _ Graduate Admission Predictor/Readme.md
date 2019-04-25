@@ -1,4 +1,6 @@
 ## Graduate Admission Predictor for student and University
+Today, there are many students who travel to USA to pursue higher education. It is necessary for the students to know what are their chances of getting an admit in the universities. <br>
+Also, universities manually check and count the total number of applicants who could get an admit into university. These methods are slow and certainly not very consistent for students and universities to get an actual result. This method is also prone to human error and thus accounts for some inaccuracies. Since the frequency of students studying abroad has increased, there is a need to employ more efficient systems which handle the admission process accurately from both perspectives<br><br>
 
 <b><u>GOAL</u></b><br>
 The goal of the model is to cover two aspects of Graduate Admission:<br>
@@ -18,7 +20,7 @@ The goal of the model is to cover two aspects of Graduate Admission:<br>
  - Assisting Student Model : Dataset for 29 colleges across USA ranging from Rank 1 to Rank 130 in computer science department<br>
  - Assidting University Model: Dataset for Northeastern University, Boston<br><br><br>
 
-<b><u>Using our Application</b></u><br>
+<b><u>USING THE APPLICATION</b></u><br>
 #### Assisting Student Model :<br>
 <b>URL for the application:</b> https://grad-school-predictor.herokuapp.com/ <br>
 Steps to reproduce:<br> Covers 2 functionality of showing acceptance.rejection of the college <br> Also displaying him with the list of 5 colleges where they will be likely to get most admits
