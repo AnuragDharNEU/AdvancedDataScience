@@ -22,12 +22,13 @@ The goal of the model is to cover two aspects of Graduate Admission:<br>
 
 #### Assisting Student Model :<br>
 <b>URL for the application:</b> https://grad-school-predictor.herokuapp.com/ <br>
-Steps to reproduce:<br>
+Steps to reproduce:<br> Covers 2 functionality of showing acceptance.rejection of the college <br> Also displaying him with the list of 5 colleges where they will be likely to get most admits
 ![image](https://user-images.githubusercontent.com/37238004/56715198-ff2a4080-6704-11e9-9e65-6cef85daefbb.png)
 
 ##### Assisting University Model :<br>
-Steps to reproduce:<br>
-![image](https://user-images.githubusercontent.com/37238004/56715720-77ddcc80-6706-11e9-9390-61fc2b97a152.png)
+Steps to reproduce:<br> This is for the Northeastern University to admit or reject a candidate based on the model prediction
+![image](https://user-images.githubusercontent.com/37238004/56716147-92fd0c00-6707-11e9-8e26-caaa72edd874.png)
+
 
 
 
