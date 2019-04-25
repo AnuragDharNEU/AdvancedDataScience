@@ -21,10 +21,10 @@ Extract keywords from 4 documents from World Economic Forum to build a dictionar
 
 
 <b>PART 2:</b>
-1. Data prep and preprocessing : Scraping data using selenium and beautiful soup <br>
-2. Forming clusters in area of fintech  <br>
-3. Feature Engineering <br>
-4. Analyzing data and gaining insight : Tableau, Data Wrapper <br>
-5. Building a pipeline and automation it : Airflow(automation), virtualization(Docker) <br>
+- Data prep and preprocessing : Scraping data using selenium and beautiful soup <br>
+- Forming clusters in area of fintech  <br>
+- Feature Engineering <br>
+- Analyzing data and gaining insight : Tableau, Data Wrapper <br>
+- Building a pipeline and automation it : Airflow(automation), virtualization(Docker) <br>
 
 <b> Google Claat: <b> https://codelabs-preview.appspot.com/?file_id=1jV9f9iUal9JTx-CveZvDc-wbgjKyLe8HF_s0nqZbF2g#2<br>
