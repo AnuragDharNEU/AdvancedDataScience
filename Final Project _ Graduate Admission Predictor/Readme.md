@@ -21,5 +21,7 @@ The goal of the model is to cover two aspects of Graduate Admission:<br>
 <b>Using our Application</b><br>
 <b>URL for the application:</b> https://grad-school-predictor.herokuapp.com/ <br>
 Steps to reproduce:
+![image](https://user-images.githubusercontent.com/37238004/56715198-ff2a4080-6704-11e9-9e65-6cef85daefbb.png)
+
 
 
