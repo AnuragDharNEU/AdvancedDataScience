@@ -34,8 +34,8 @@ Steps to reproduce:<br> This is for the Northeastern University to admit or reje
 <br>
 <br>
 <b> TO RUN DOCKER IMAGE <b>
- - Run on docker  --> docker run -p <<laptopport>>:5000 naveenjami/gradadmissionpredictor
- - Run on browser --> http://0.0.0.0:<<laptopport>> <br>
+ - Run on docker  --> docker run -p laptopport:5000 naveenjami/gradadmissionpredictor
+ - Run on browser --> http://0.0.0.0:laptopport <br>
 ![image](https://user-images.githubusercontent.com/37238004/56794222-ada0b500-67db-11e9-8398-fec52cf4a28e.png)
 
 
