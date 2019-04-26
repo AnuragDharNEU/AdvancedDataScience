@@ -29,6 +29,12 @@ Steps to reproduce:<br> Covers 2 functionality of showing acceptance.rejection o
 ##### Assisting University Model :<br>
 Steps to reproduce:<br> This is for the Northeastern University to admit or reject a candidate based on the model prediction
 ![image](https://user-images.githubusercontent.com/37238004/56716147-92fd0c00-6707-11e9-8e26-caaa72edd874.png)
+<br>
+<br>
+<b> TO RUN DOCKER IMAGE <b>
+ - Run on docker  --> docker run -p <laptopport>:5000 naveenjami/gradadmissionpredictor
+ - Run on browser --> http://0.0.0.0:5000
+![image](https://user-images.githubusercontent.com/37238004/56794222-ada0b500-67db-11e9-8398-fec52cf4a28e.png)
 
 
 
